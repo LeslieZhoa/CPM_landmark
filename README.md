@@ -2,8 +2,8 @@
 基于CPM网络结构的关键点检测模型
 
 # 版本要求
-py2 or py3
-tensorflow>=1.2
+py2 or py3<br>
+tensorflow>=1.2<br>
 
 opencv>=3.2
 
