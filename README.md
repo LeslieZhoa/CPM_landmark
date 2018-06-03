@@ -9,11 +9,11 @@ opencv>=3.2
 
 
 # 文件说明
-bt.py 生成带有heatmap的训练数据的tfrecords
-bv.py 生成带有heatmap的验证数据的tfrecords
+bt.py 生成带有heatmap的训练数据的tfrecords<br>
+bv.py 生成带有heatmap的验证数据的tfrecords<br><br>
 
-blouse.py 训练模型
-blouse_test.py 测试数据
+blouse.py 训练模型<br>
+blouse_test.py 测试数据<br><br>
 
 visual.py 可视化
 
